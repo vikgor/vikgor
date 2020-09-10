@@ -5,7 +5,6 @@
 - 🏢 I’m currently working at **Take it Personally**
 - ⚙️ I use daily: `.swift`
 - 🌱 I’m currently learning `Spanish`
-- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@battlethem-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/battlethem "Twitter")
 - 🌍 Website: [viktorgordienko.com](https://www.viktorgordienko.com)
 - ⚽️ Favorite football club: Zenit Saint Petersburg
 - 🎙 Occasionally hosting [Fever 105](https://www.fever105.com) - 70&80s music podcast
@@ -24,3 +23,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+
+#### Reach me
+[![Twitter Badge](https://img.shields.io/badge/-@battlethem-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/battlethem "Twitter")
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/1253359261 "Spotify")
