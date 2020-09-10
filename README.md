@@ -2,7 +2,7 @@
 
 #### I'm an iOS Developer working in Moscow, Russia.
 
-- 🏢 I’m currently working at **Take it Personally**
+- 🏢 I’m currently working at [Take it Personally](https://takeitpersonally.app)
 - ⚙️ I use daily: `.swift`
 - 🌱 I’m currently learning `Spanish`
 - 🌍 Website: [viktorgordienko.com](https://www.viktorgordienko.com)
