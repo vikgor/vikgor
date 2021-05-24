@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello there 👋
 
-#### I'm an iOS Developer working in Moscow, Russia.
+#### iOS developer from Moscow. GitHub work profile: [v-gordienko](https://github.com/v-gordienko)
 
-- 🏢 I’m currently working at [inDriver](https://indriver.com) & [Take it Personally](https://takeitpersonally.app) 
+- 🏢 I work full-time at [inDriver](https://indriver.com) & part-time at [Take it Personally](https://takeitpersonally.app) 
 - ⚙️ I use daily: `.swift`, `.h`, `.m`
 - 🌱 I’m currently learning `Spanish`, `Esperanto`
-- 🌍 Website: [viktorgordienko.com](https://www.viktorgordienko.com)
+- 🌍 Blog: [viktorgordienko.com](https://www.viktorgordienko.com)
 - ⚽️ Favorite football club: Zenit Saint Petersburg
 - 🎙 Occasionally hosting [Fever 105](https://www.fever105.com) - 70&80s music podcast
 
