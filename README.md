@@ -1,12 +1,10 @@
 ### Hello there 👋
 
-#### iOS developer from Moscow. GitHub work profile: [v-gordienko](https://github.com/v-gordienko)
+#### iOS developer. GitHub work profile: [v-gordienko](https://github.com/v-gordienko)
 
 - 🏢 I work full-time at [inDriver](https://indriver.com) & part-time at [Take it Personally](https://takeitpersonally.app) 
 - ⚙️ I use daily: `.swift`, `.h`, `.m`
-- 🌱 I’m currently learning `Spanish`, `Esperanto`
 - 🌍 Blog: [viktorgordienko.com](https://www.viktorgordienko.com)
-- ⚽️ Favorite football club: Zenit Saint Petersburg
 - 🎙 Occasionally hosting [Fever 105](https://www.fever105.com) - 70&80s music podcast
 
 #### Languages
